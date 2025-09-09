@@ -23,4 +23,16 @@ def equal(x):
     t.left(120)
 equal(200)
 
-turtle(done)
+def angle(x):
+    t.forward(125)
+    t.left(x)
+    t.forward(100)
+    t.left(x)
+    t.forward(125)
+    t.left(x)
+    t.forward(100)
+    t.left(x)
+angle(90)
+
+
+turtle.done()
