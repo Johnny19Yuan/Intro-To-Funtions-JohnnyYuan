@@ -1,6 +1,7 @@
 import turtle
 from turtle import *
 t = Turtle()
+t.speed(10)
 
 for i in range(4):
     def square(x):
@@ -13,6 +14,7 @@ for i in range(3):
         t.forward(y)
         t.left(120)
     triangle(100)
+
 
 for i in range(60):
     for i in range(4):
