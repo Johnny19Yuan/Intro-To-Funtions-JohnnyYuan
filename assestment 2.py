@@ -8,7 +8,7 @@ for i in range(60):
             t.forward(x)
             t.right(y)
         t.right(5)
-       
+        
 star (5,144)
 
 def addstar(irange):
