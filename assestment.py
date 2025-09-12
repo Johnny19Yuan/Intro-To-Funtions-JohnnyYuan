@@ -1,7 +1,7 @@
 import turtle
 from turtle import *
 t = Turtle()
-t.speed(50)
+t.speed(100)
 for i in range(60):
     def square (x,y):
         for i in range(4):

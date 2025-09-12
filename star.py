@@ -1,3 +1,5 @@
+#makes a star
+
 import turtle
 from turtle import *
 t = Turtle()
